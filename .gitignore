@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated reports
+notebooks/eda_report.html
+
+# Generated outputs
+predictions.csv
+notebooks/predictions.csv
+
+# CatBoost logs
+notebooks/catboost_info/
