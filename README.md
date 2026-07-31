@@ -189,10 +189,9 @@ The project follows the complete Machine Learning workflow:
 | Metric | Score |
 |--------|------:|
 | Accuracy | **94.56%** |
-| Precision | - |
-| Recall | - |
-| F1 Score | - |
-
+| Precision | **94.53%** |
+| Recall | **94.56%** |
+| F1 Score | **94.54%** |
 ---
 
 # 📸 Screenshots
