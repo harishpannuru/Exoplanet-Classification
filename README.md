@@ -197,35 +197,35 @@ The project follows the complete Machine Learning workflow:
 
 # 📸 Screenshots
 
-## 🏠 Home Page
+## 🏠 Dashboard
 
-_Add screenshot here_
-
-```
-images/home.png
-```
+<p align="center">
+  <img src="images/home.png" width="900" alt="Dashboard">
+</p>
 
 ---
 
-## 🔮 Prediction Page
+## 📂 Upload Dataset
 
-_Add screenshot here_
-
-```
-images/predict.png
-```
+<p align="center">
+  <img src="images/upload.png" width="900" alt="Upload Dataset">
+</p>
 
 ---
 
-## ✅ Prediction Result
+## ✅ Prediction Results
 
-_Add screenshot here_
-
-```
-images/result.png
-```
+<p align="center">
+  <img src="images/result.png" width="900" alt="Prediction Results">
+</p>
 
 ---
+
+## ⚡ FastAPI API Documentation
+
+<p align="center">
+  <img src="images/api_docs.png" width="900" alt="FastAPI Swagger UI">
+</p>
 
 # 📦 Requirements
 
