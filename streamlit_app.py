@@ -124,7 +124,7 @@ with col1:
     st.markdown("""
     <div class='metric-card'>
     <div class='metric-title'>Accuracy</div>
-    <div class='metric-value'>94.46%</div>
+    <div class='metric-value'>94.56%</div>
     </div>
     """,unsafe_allow_html=True)
 
@@ -176,7 +176,7 @@ with st.expander("📋 Model Information",expanded=True):
         "Value":[
             "XGBoost",
             "NASA Kepler KOI",
-            "94.46%",
+            "94.56%",
             "Top 20",
             "3",
             "FastAPI + Streamlit"
